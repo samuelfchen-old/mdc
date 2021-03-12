@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>FolddaConnect.Codec</RootNamespace>
+    <AssemblyName>Codec</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Container.zip" />
+  </ItemGroup>
+
+</Project>
