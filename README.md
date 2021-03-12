@@ -39,7 +39,7 @@ can be represented as follows:
 ## Example 3: Multiple Layers with multiple child nodes
 The following tree
 
-![tree 3](https://i.imgur.com/qFFlHCo.png)
+![tree 3](https://i.imgur.com/h6nch9p.png)
 
 can be represented as follows:
 ```
